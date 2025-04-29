@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: black;
+    box-sizing: border-box; 
+    font-family: Sofia; 
+    }
+.video1{
+    border-style:dotted;
+   display: inline-block;
+   border:8px dotted yellow;
+   box-shadow: -5px -5px 5px  rgba(238, 206, 63, 0.548);
+  
+   margin-top: 15px;
+   border-radius:10px;
+   padding: 10px;
+}
+h4{
+    color: white;
+    margin-bottom: 10px;
+    font-size:25px;
+    
+}
+.mm{
+    width:60px;
+    height:35px;
+    margin-left:10px;
+    margin-top: 20px;
+  
+    
+}
+.m{
+    width:60px;
+    height:40px;
+    margin-left:20px;
+    margin-top: 20px;
+}
+
+button[type=button]{
+    background-color: rgba(248, 214, 79, 0.815);
+    border-radius:20px;
+    padding:5px;
+}
